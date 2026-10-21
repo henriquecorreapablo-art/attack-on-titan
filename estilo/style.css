@@ -9,12 +9,12 @@ font-weight: normal;
 }
 
 :root{
---cor0:#c5ebd6;
---cor1:#6b61ff;
---cor2:#9c46ff;
---cor3:#00a2ff; /*063d1e*/
---cor4:#005d81;
---cor5:#00258b;
+--cor0:#ccad7f;
+--cor1:#000000;
+--cor2:#000000;
+--cor3:#773a00; /*063d1e*/
+--cor4:#ebebeb;
+--cor5:#c58c42;
 
 --font-padrão:Arial,Verdana, Helvetica, sans-serif;
 --font-destaque: 'Bebas Neue', sans-serif;
@@ -68,6 +68,30 @@ padding: 10px;
 box-shadow: 0px 7px 7px rgb(0,0,0,0.167);
 }
 
-nav > a{
+nav> a{
     color: var(--cor1);
-}
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition-duration: 0.5s;
+    }
+    
+    nav> a:hover{
+    background-color: var(--cor3);
+    color: var(--cor5);
+    }
+    main{
+        min-width: 300px;
+        max-width: 1000px;
+        margin:auto;
+        margin-bottom: 30px;
+        padding: 20px;
+        background-color: wheat;
+        box-shadow: 0px, 0px 10px rgba(0, 0, 0, 416);
+    }
+
+    img{
+        display: block;
+        margin: auto;
+    }
