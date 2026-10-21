@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historia Attack On Titan</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Como Começou</h1>
+        Antes que você explore os segredos deste universo, saiba de uma coisa: nada em Attack on Titan é o que parece. A história que começa com monstros devorando humanos se transforma rapidamente em um jogo psicológico brutal, onde não existem vilões ou heróis puros, apenas visões opostas sobre o que significa ser livre.
+        </header>
+        <nav>
+            <a href="#">home</a>
+            <a href="#">titans</a>
+            <a href="#">humanos</a>
+        </nav>
+        <main>
+            <article>
+                <h1>Attack on Titan: A Luta da Humanidade pela Sobrevivência</h1>
+                <p>Conheça a história, os mistérios e o impacto do universo criado por Hajime Isayama</p>
+                <h2>Attack on Titan (Shingeki no Kyojin), criado por Hajime Isayama, retrata a luta dos últimos sobreviventes da humanidade contra criaturas devoradoras de homens chamadas Titãs. A paz garantida por três imensas muralhas cai por terra quando um Titã Colossal invade a cidade, dando início a uma caótica guerra pela sobrevivência.</h2>
+                <p>A trama segue Eren Yeager, Mikasa Ackerman e Armin Arlert ao se juntarem à Divisão de Reconhecimento para combater as ameaças. O que começa como um combate contra monstros evolui para uma complexa trama cheia de mistérios, revelando segredos sobre o mundo e abordando temas como liberdade, política e o ciclo de ódio.</p>
+            </article>
+            <picture>
+                <source media="(min-width:670px )" srcset="attack-on-titan-launches-new-official-website-promises-v0-dztacs1z90se1.webp">
+                <img src="images.jpeg"alt="">
+            </picture>
+            <aside>
+                <h3>Personagens</h3>
+                <ul>
+                    <li>Eren Yeager</li>
+                    <li>Mikasa Ackerman</li>
+                    <li>Armin Arlert</li>
+                    <li>Levi Ackerman</li>
+                    <li>Erwin Smith</li>
+                    <li>Reiner Braun</li>
+                    <li>Historia Reiss (Christa Lenz)</li>
+                    <li>Zeke Yeager</li>
+                </ul>
+                    <p>Eren Yeager: Perdeu a mãe no ataque aos muros, jurou vingança e descobriu que podia se transformar em Titã, tornando-se a principal arma e liderança de Paradis.</p>
+                    <img src="images (1).jpeg" alt="" style="width: 200px;">
+                    <p>Mikasa Ackerman: Salva por Eren na infância, tornou-se uma das soldadas mais letais da humanidade para protegê-lo a todo custo.</p>
+                    <img src="images (2).jpeg" alt="" style="width: 200px;">
+                    <p>Armin Arlert: O estrategista do grupo; compensou a falta de força física com uma inteligência genial, sendo crucial nas grandes vitórias militares.</p>
+                    <img src="20200825-attack-on-titan-armin-new-world-1234686.jpeg" alt="" style="width: 200px;">
+                    <p>Levi Ackerman: O soldado mais forte da humanidade, saído do submundo para se tornar a maior força de combate e líder de elite da Divisão de Reconhecimento.</p>
+                    <img src="20230110-ovicio-levi-ackerman-em-attack-on-titan.jpg" alt="" style="width: 200px;">
+                    <p>Erwin Smith: O lendário comandante focado em descobrir a verdade do mundo, famoso por tomar decisões difíceis e sacrificar tudo pela humanidade</p>
+                    <img src="images (3).jpeg" alt="" style="width: 200px;">
+                    <p>Reiner Braun: Um soldado de Marley infiltrado nas muralhas que viveu o dilema de se apegar aos inimigos enquanto tentava cumprir sua missão.</p>
+                    <img src="reiner.jpg" alt="" style="width: 200px;">
+                    <p>Historia Reiss: Infiltrada sob nome falso, descobriu ser a herdeira da família real e assumiu o trono para guiar o povo de Paradis.</p>
+                    <img src="images (4).jpeg" alt="" style="width: 200px;">
+                    <p>Zeke Yeager: Meio-irmão de Eren e portador do Titã Bestial, que usou seu intelecto e origens para articular um plano próprio para o fim dos Titãs.</p>
+                    <img src="images (5).jpeg" alt="" style="width: 200px;">
+
+            </aside>
+        </main>    
+</body>
+</html>
